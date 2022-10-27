@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+.image{
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-top: 3rem;
+  height: 100px;
+  width: 100px;
+}
+.headers{
+  margin-bottom: 4rem;
+}
+.name{
+  margin-top: 2rem;
+}
+.one{
+  
+  background-color: rgb(233, 220, 220);
+  color: black;
+  margin: auto 3rem;
+ border-radius: 0.4rem;
+}
+.para{
+  margin-top: 1.5rem;
+  padding: 1rem;
+}
+.link{
+  text-decoration:none;
+}
+.img{
+  
+  margin-left: 2rem;
+  width: 50px;
+  height: 50px;
+}
+.img{
+  margin: 10 auto;
+  display: inline-block;
+ 
+}

@@ -1,10 +1,15 @@
 
 import './App.css';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Slides from './components/Slides';
 
 function App() {
   return (
     <div className="App">
-      <h1>This is </h1>
+      <Header />
+      <Slides/>
+      <Footer/>
     </div>
   );
 }
